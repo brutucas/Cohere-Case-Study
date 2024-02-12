@@ -6,7 +6,7 @@
 
 Cohere is an artificial intelligence company founded in 2019, specializing in large language models. It was founded by Aidan Gomez (current CEO), Nick Frosst, and Ivan Zhang, who all attended the University of Toronto and share backgrounds in AI/ML. 
 
-![
+![Cohere company founders](images/Cohere-cofounders.jpeg)
 
 ---
 #### What are the origins of the idea behind this company?
